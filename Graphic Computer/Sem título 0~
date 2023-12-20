@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Animação</title>
+</head>
+<body>
+	<canvas></canvas>
+</body>
+</html>

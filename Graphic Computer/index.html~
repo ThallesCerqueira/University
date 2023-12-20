@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Animacao</title>
+<style>
+	canvas {
+		background: #E1B5FF;
+	}
+</style>
+</head>
+<body>
+	<canvas></canvas>
+	<script src = "canvas.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Jogo 1</title>
+</head>
+<body>
+	<canvas>
+		<script src="jogo1.js" ></script>	
+	</canvas>
+</body>
+</html>
